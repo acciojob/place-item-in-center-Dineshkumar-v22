@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+
+.holder{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+.box1{
+	height: 100px;
+	width:100px;
+	background-color: green;
+	font-size: 50px;
+}
+/* Your CSS Code here. */
